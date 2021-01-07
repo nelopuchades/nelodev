@@ -26,9 +26,6 @@ My name is Nelo and I'm a Fullstack Developer. I'm from Valencia (Spain) and I'm
 <a href="https://www.amazon.es/Grid-Systems-Graphic-Design-Communication/dp/3721201450/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=grid+systems&qid=1605444140&sr=8-1">
   <img alt="CSS - The definitive guide" src="https://images-na.ssl-images-amazon.com/images/I/71aKxPKSwzL.jpg" width="200" />
 </a>
-<a href="https://www.amazon.es/CSS-Definitive-Guide-Visual-Presentation/dp/1449393195/ref=pd_lpo_14_t_0/257-0496716-4653141?_encoding=UTF8&pd_rd_i=1449393195&pd_rd_r=cf4115ab-224d-4b74-b20f-57ebea518e41&pd_rd_w=S60rR&pd_rd_wg=NSuZK&pf_rd_p=4221015a-01c7-4a3d-a84d-985d938e9995&pf_rd_r=H25WYZE44REVAMWTRTYP&psc=1&refRID=H25WYZE44REVAMWTRTYP">
-  <img alt="CSS - The definitive guide" src="https://images-na.ssl-images-amazon.com/images/I/51xC5rQ9iOL.jpg" width="200" />
-</a>
 
 ## Where I learn
 <ul>
