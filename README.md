@@ -16,10 +16,7 @@ My name is Nelo and I'm a Fullstack Developer. I'm from Valencia (Spain) and I'm
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-## ⚙️ Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=plastic&logo=illustrator&logoColor=white)
 
 ## Favorite Books
 <a href="https://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882">
