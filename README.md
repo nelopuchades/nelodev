@@ -18,8 +18,18 @@ My name is Nelo and I'm a Fullstack Developer. I'm from Valencia (Spain) and I'm
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+## 🎨 Design Skills
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?style=flat&logo=Adobe%20XD&logoColor=white)
+
+## 🔝 My top langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelodev&hide=TeX&layout=compact)
+
+## 🔝 My stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nelodev&count_private=true&show_icons=true&include_all_commits=true)
 
 ## Favorite Books
 <a href="https://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882">
