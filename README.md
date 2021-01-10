@@ -28,19 +28,8 @@ My name is Nelo and I'm a Fullstack Developer. I'm from Valencia (Spain) and I'm
 ## 🔝 My top langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelodev&hide=TeX&layout=compact)
 
-## 🔝 My stats
+## 📚 My stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nelodev&count_private=true&show_icons=true&include_all_commits=true)
-
-## Favorite Books
-<a href="https://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882">
-  <img alt="Clean Code" src="https://m.media-amazon.com/images/I/41SH-SvWPxL.jpg" width="200" />
-</a>
-<a href="https://www.amazon.es/Refactoring-Improving-Existing-Addison-wesley-Signature/dp/0134757599/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=refactoring&qid=1605443763&sr=8-1">
-  <img alt="Refactoring - Improving the design of existing code" src="https://martinfowler.com/books/refact2.jpg" width="200" />
-</a>
-<a href="https://www.amazon.es/Grid-Systems-Graphic-Design-Communication/dp/3721201450/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=grid+systems&qid=1605444140&sr=8-1">
-  <img alt="CSS - The definitive guide" src="https://images-na.ssl-images-amazon.com/images/I/71aKxPKSwzL.jpg" width="200" />
-</a>
 
 ## Where I learn
 <ul>
