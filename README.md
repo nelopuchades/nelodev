@@ -3,7 +3,7 @@
 My name is Nelo and I'm a Fullstack Developer. I'm from Valencia (Spain) and I'm currently working at Finametrix. You can find me on:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/NeloDev)](https://twitter.com/NeloDev)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-puchades-bres%C3%B3-115a58179)](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-puchades-bres%C3%B3-115a58179).
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-puchades-bres%C3%B3-115a58179)](https://www.linkedin.com/in/manuel-puchades-bres%C3%B3-115a58179).
 
 ## ⚙️ Technical Skills
 
