@@ -30,9 +30,6 @@ My name is Nelo and I'm a Fullstack Developer. I'm from Valencia (Spain) and I'm
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?style=flat&logo=Adobe%20XD&logoColor=white)
 
-## 🔝 My top langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelodev&hide=TeX&layout=compact)
-
 ## 📚 My stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nelodev&count_private=true&show_icons=true&include_all_commits=true)
 
