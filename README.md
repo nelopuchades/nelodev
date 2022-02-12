@@ -1,47 +1,44 @@
-# Hello, folks 👋
+<h1 align='center'>
+    Hi folks! I'm <a href="https://twitter.com/nelodev">Nelo</a>! 👋
+</h1>
 
-<div align="center">
-  <img width="100%" " src="https://raw.githubusercontent.com/nelodev/nelodev/main/banner.jpg" alt="cover" />
-</div>
+<p align='center'>
+  Frontend Engineer and software lover
+</p>
 
-<br />
+<p align='center'>
+  <a href="https://www.linkedin.com/in/nelodev">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/nelodev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/nelodev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp; 
+</p>                                                                                            
                                                                                                          
-My name is Nelo and I'm a Frontend Engineer. I'm from Valencia (Spain) and I'm currently working at Verbio Technologies. You can find me on:
+- 💻 I am a Frontend Engineer @ [Verbio](https://www.verbio.com/)<br>
+- 🌱 I studied a degree in Computer Science @ [UPV](http://www.upv.es/en)<br>
+- 🌱 I studied a master in Software Engineering @ [UPV](http://www.upv.es/en)<br>
+- 🔭 I’m currently working on improving my skills in Fullstack Development<br>
+- 🤔 In 2022 I hope to improve my english level and my skills developing in Vue.js<br>
+- 💬 Ask me about music, video games and football 😊🎵🎮⚽<br>
+- 📫 How to reach me: [correo@nelo.dev📧](mailto:correo@nelo.dev)<br>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/NeloDev)](https://twitter.com/NeloDev)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelodev)](https://www.linkedin.com/in/nelodev)
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nelodev&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
-## ⚙️ Technical Skills
+<p align='center'>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelodev&theme=dark&hide=jupyter notebook,TeX&layout=compact"></a>
+</p>
 
-### Level 1
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-### Level 2
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
-## 🎨 Design Skills
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
-![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?style=flat&logo=Adobe%20XD&logoColor=white)
-
-## 📚 My stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nelodev&count_private=true&show_icons=true&include_all_commits=true)
-
-## Where I learn
-<ul>
-  <li><a href="https://frontendmasters.com/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4MoH41rJ--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/674/b6682f24-d650-453d-bd07-9d0e752ceecf.jpg" width="16" /> Frontend Masters</a></li>
-  <li><a href="https://platzi.com/"><img src="https://startupxplore.com/uploads/ff8080815235115101523595712a00de-large.png" width="16" /> Platzi</a></li>
-  <li><a href="https://www.udemy.com/"><img src="https://www.udemy.com/staticx/udemy/images/v6/favicon-16x16.png" /> Udemy</a></li>
-</ul>
+<h2 align='center'>💻My Workspace</h2>
+<p align='center'>
+    <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
+    <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black'>
+    <img src='https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=black'>
+    <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+    <img src='https://img.shields.io/badge/NVIDIA-RTX3090-76B900?style=for-the-badge&logo=nvidia&logoColor=white'>
+</p>
