@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Frontend Engineer and software lover
+  Software Engineer that enjoys solving problems! ❤️
 </p>
 
 <p align='center'>
@@ -18,11 +18,11 @@
   </a>&nbsp;&nbsp; 
 </p>                                                                                            
                                                                                                          
-- 💻 I am a Frontend Engineer @ [Verbio](https://www.verbio.com/)<br>
+- 💻 I am a Software Engineer @ [Lifull Connect](https://www.lifullconnect.com/)<br>
 - 🌱 I studied a degree in Computer Science @ [UPV](http://www.upv.es/en)<br>
 - 🌱 I studied a master in Software Engineering @ [UPV](http://www.upv.es/en)<br>
-- 🔭 I’m currently working on improving my skills in Fullstack Development<br>
-- 🤔 In 2022 I hope to improve my english level and my skills developing in Vue.js<br>
+- 🔭 I’m currently working on improving my skills in Backend Engineering<br>
+- 🤔 In 2022 I hope to improve my knowledge about compiled languages like Java, C++ or Kotlin<br>
 - 💬 Ask me about music, video games and football 😊🎵🎮⚽<br>
 - 📫 How to reach me: [correo@nelo.dev📧](mailto:correo@nelo.dev)<br>
 
