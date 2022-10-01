@@ -33,12 +33,3 @@
 <p align='center'>
   <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelodev&theme=dark&hide=jupyter notebook,TeX&layout=compact"></a>
 </p>
-
-<h2 align='center'>💻My Workspace</h2>
-<p align='center'>
-    <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
-    <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black'>
-    <img src='https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=black'>
-    <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-    <img src='https://img.shields.io/badge/NVIDIA-RTX3090-76B900?style=for-the-badge&logo=nvidia&logoColor=white'>
-</p>
